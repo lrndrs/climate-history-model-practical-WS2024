@@ -6,7 +6,9 @@
 This project contains data and a python jupyter notebook for the climate model exercise of the course "Paleoclimate and Climate History", taught by Heather Stoll in WS2024 and this exercise developed by Laura Endres.
 
 Regarding dependencies, everything you need should be provided by the moodle jupyterlab environment.
-If you want to install the packages on your own machine, we recommend a to install the anaconda distribution.
+If you download the files to your own machine, you can use 
+```pip install -r requirements.txt```
+to install all dependencies.
 
 The data used in the exercise stems from a model simulation of the following publication:
 
