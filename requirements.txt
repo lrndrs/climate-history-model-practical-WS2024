@@ -1,8 +1,8 @@
-Cartopy==0.24.1
-cmcrameri==1.9
-matplotlib==3.8.0
-numpy==2.1.2
-pandas==2.2.3
+Cartopy
+cmcrameri
+matplotlib
+numpy
+pandas
 xarray==2023.6.0
 jupyterlab>=4.0.0
 jupyterlab_myst>=2.0.0
