@@ -4,7 +4,7 @@ cmcrameri
 matplotlib
 numpy
 pandas
-xarray==2023.6.0
+xarray
 jupyterlab>=4.0.0
 jupyterlab_myst>=2.0.0
 
