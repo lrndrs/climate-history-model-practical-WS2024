@@ -14,4 +14,4 @@ Vettoretti, G., Ditlevsen, P., Jochum, M., Rasmussen, S.O., 2022. Atmospheric CO
 
 For follow-up questions or if you find mistakes in the notebook, please write me an E-mail: endres@eaps.ethz.ch
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/https%3A%2F%2Fgitlab.ethz.ch%2Flendres%2Fclimate-lab-practical-ws2024.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lrndrs/climate-history-model-practical-WS2024/HEAD)
