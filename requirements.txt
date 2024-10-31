@@ -1,3 +1,4 @@
+python>=3.11.8
 Cartopy
 cmcrameri
 matplotlib
@@ -6,5 +7,6 @@ pandas
 xarray==2023.6.0
 jupyterlab>=4.0.0
 jupyterlab_myst>=2.0.0
+
 
 
