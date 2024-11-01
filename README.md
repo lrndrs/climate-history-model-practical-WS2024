@@ -7,14 +7,15 @@ This project contains data and a python jupyter notebook for the climate model e
 
 Regarding dependencies, everything you need should be provided by the moodle jupyterlab environment.
 If you work on your own machine you need to install the libraries, which can be done using conda and pip.
+With the terminal, you can
 
-- install xarray:
+- install xarray, by typing:
 ```conda install -c conda-forge xarray dask netCDF4 bottleneck```
 
-- install cartopy:
+- install cartopy, by typing:
 ```conda install cartopy```
 
-- other dependencies can be installed with
+- other dependencies can be installed by typing:
 ```pip install -r requirements.txt```
 
 The data used in the exercise stems from a model simulation of the following publication:
