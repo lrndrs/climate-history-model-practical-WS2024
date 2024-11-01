@@ -6,9 +6,16 @@
 This project contains data and a python jupyter notebook for the climate model exercise of the course "Paleoclimate and Climate History", taught by Heather Stoll in WS2024 and this exercise developed by Laura Endres.
 
 Regarding dependencies, everything you need should be provided by the moodle jupyterlab environment.
-If you download the files to your own machine, you can use 
+If you work on your own machine you need to install the libraries, which can be done using conda and pip.
+
+- install xarray:
+```conda install -c conda-forge xarray dask netCDF4 bottleneck```
+
+- install cartopy:
+```conda install cartopy```
+
+- other dependencies can be installed with
 ```pip install -r requirements.txt```
-to install all dependencies.
 
 The data used in the exercise stems from a model simulation of the following publication:
 
